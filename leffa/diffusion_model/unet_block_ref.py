@@ -32,7 +32,7 @@ from diffusers.models.resnet import (
     ResnetBlock2D,
     Upsample2D,
 )
-from diffusers.models.transformers.dual_transformer_2d import DualTransformer2DModel
+from diffusers.models.dual_transformer_2d import DualTransformer2DModel
 
 from diffusers.utils import is_torch_version, logging
 from diffusers.utils.torch_utils import apply_freeu
