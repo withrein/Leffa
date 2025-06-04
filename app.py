@@ -365,4 +365,4 @@ if __name__ == "__main__":
                 )
 
         gr.Markdown(note)
-        demo.launch(share=True, server_port=7860, allowed_paths=["./ckpts/examples"])
+        demo.launch(share=True, server_port=7869, allowed_paths=["./ckpts/examples"])
